@@ -1,11 +1,8 @@
+@import url("https://fonts.google.com/specimen/Outfit");
 body{
     margin: 0;
 }
-@font-face {
-    font-family: Sofia;
-    src: url(https://fonts.googleapis.com/css?family=Sofia);
-    font-weight: 400 700;
-}
+
 main{
     background-color: hsl(212, 45%, 89%);
     display: flex;
@@ -18,9 +15,9 @@ div{
     background-color: hsl(0, 0%, 100%);
     border-radius: 3%;
     padding: 0.95em;
-    font-size: 15px;
     width: 17em;
-    font-family: Sofia;
+    font-family: 'Outfit';
+    font-weight: 400 700; 
 }
 
 img{
@@ -36,5 +33,11 @@ img{
 }
 
 p{
+    font-size: 15px;
     color: hsl(220, 15%, 55%);
+    text-align: center;
+}
+
+section{
+    padding: 0 20px;
 }
