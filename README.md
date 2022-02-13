@@ -19,7 +19,7 @@ Frontend Mentor QR code component challenge solution
 
 ### Links
 
-- Solution URL: https://qrcodecomponent.anelesiguqa.co.za/
+- Solution URL: https://www.frontendmentor.io/solutions/qrcodecomponent-using-html-and-css-VIbF4KEVy
 - Live Site URL: https://qrcodecomponent.anelesiguqa.co.za/
 
 ## My process
