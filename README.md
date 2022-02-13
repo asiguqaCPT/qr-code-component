@@ -19,8 +19,8 @@ Frontend Mentor QR code component challenge solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://qrcodecomponent.anelesiguqa.co.za/
+- Live Site URL: https://qrcodecomponent.anelesiguqa.co.za/
 
 ## My process
 
